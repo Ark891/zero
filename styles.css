@@ -22,7 +22,7 @@
             line-height: 1.6;
             overflow-x: hidden; 
             scroll-behavior: smooth;
-             background-image: url(images/w3.jpg);
+            background-image:url(images/w3.jpg);
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-position: center;
@@ -252,7 +252,7 @@
             position: relative;
             overflow: hidden;
             padding-top: 80px;
-            background-image: url(images/w2.jpg);
+            background-image:url(images/w2.jpg);
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-position: center;
